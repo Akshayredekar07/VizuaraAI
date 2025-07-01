@@ -1,0 +1,2 @@
+
+The final definition of an AI agent is that: Agents are LLMs which take you from point A to point B and add value to your life, where value equals time and money. Agents interact with their environment and have memory, can also plan and take decisions, and have access to "Tools". The brain or foundation of an agent is a Large Language Model (LLM).
